@@ -1,0 +1,20 @@
+  #content_b:nth-child(1):after{ 
+    background: url(../images/踩单车.gif) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(2):after{ 
+    background: url(../images/牛尾巴过人.gif) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(3):after{ 
+    background: url(../images/钟摆过人.gif) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(4):after{ 
+    background: url(../images/马赛回旋.jpg) no-repeat center/100% 100%;
+  }
+  .wudi_a:hover .texiao_a{
+    left: 67.5%;
+    opacity: 1;    
+  }
+  .wudi_b:hover .texiao_b{
+      left: 5%;
+      opacity: 1;
+  }

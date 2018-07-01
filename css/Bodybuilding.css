@@ -1,0 +1,24 @@
+  #content_b:nth-child(1):after{ 
+    background: url(../images/飞鸟.gif) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(2):after{ 
+    background: url(../images/俯卧撑.jpg) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(3):after{ 
+    background: url(../images/引体向上.gif) no-repeat center/100% 100%;
+  }
+  #content_b:nth-child(4):after{ 
+    background: url(../images/深蹲.jpg) no-repeat center/100% 100%;
+  }
+  .wudi_a:hover .texiao_a{
+    left: 67.5%;
+    opacity: 1;    
+  }
+  .wudi_b:hover .texiao_b{
+      left: 5%;
+      opacity: 1;
+  }
+  .wudi_a:hover .texiao_c{
+    left: 56.5%;
+    opacity: 1;
+  }
